@@ -5,6 +5,8 @@
 - 📫 How to reach me: syedamiel3@gmail.com or www.linkedin.com/in/syed-amiel-mateen
 - ⚡ Fun fact: I enjoy rock and metal music and also a Man Utd fan (unfortunately..)
 
+Here's some languages I know: HTML, CSS (Bootstrap), Javascript (React, Node.js, Express.js, jQuery), PHP, SQL, Python, Java
+
 <!---
 syedamiel/syedamiel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
